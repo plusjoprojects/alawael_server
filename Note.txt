@@ -1,0 +1,7 @@
+Countre => title_en,title,image
+Plus => title_en,title,image,
+Section => title_en,title,image
+
+Profile => countre_id,section_id,gender,status,image,title,skills,passport_number,loop,payment
+	=> natonalty,religion,birthday,birthplace,address,weight,height,child,arabic,enlgish,education
+	=> note,other_skills,ref_id
